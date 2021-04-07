@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Finally\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Finally\\Desktop\\KQF\\KQF.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\KQF.csproj",
       "projectName": "KQF",
-      "projectPath": "C:\\Users\\Finally\\Desktop\\KQF\\KQF.csproj",
-      "packagesPath": "C:\\Users\\Finally\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Finally\\Desktop\\KQF\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\KQF.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Finally\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

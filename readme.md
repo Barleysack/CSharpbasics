@@ -1,7 +1,8 @@
 
-Repo for smartfactory education
-Hope it's not worthless this time
+
+
+#Repo for smartfactory education
+Class basics, basic OOP lectures
 
 Lang: C#
-
 
