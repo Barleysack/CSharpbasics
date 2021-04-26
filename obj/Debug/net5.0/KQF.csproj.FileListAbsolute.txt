@@ -1,0 +1,5 @@
+C:\Users\Finally\Desktop\KQF\obj\Debug\net5.0\KQF.csprojAssemblyReference.cache
+C:\Users\Finally\Desktop\KQF\obj\Debug\net5.0\KQF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finally\Desktop\KQF\obj\Debug\net5.0\KQF.AssemblyInfoInputs.cache
+C:\Users\Finally\Desktop\KQF\obj\Debug\net5.0\KQF.AssemblyInfo.cs
+C:\Users\Finally\Desktop\KQF\obj\Debug\net5.0\KQF.csproj.CoreCompileInputs.cache
