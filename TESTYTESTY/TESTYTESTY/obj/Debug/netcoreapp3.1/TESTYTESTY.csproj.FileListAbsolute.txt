@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\bin\Debug\netcoreapp3.1\TESTYTESTY.exe
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\bin\Debug\netcoreapp3.1\TESTYTESTY.deps.json
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\bin\Debug\netcoreapp3.1\TESTYTESTY.runtimeconfig.json
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\bin\Debug\netcoreapp3.1\TESTYTESTY.runtimeconfig.dev.json
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\bin\Debug\netcoreapp3.1\TESTYTESTY.dll
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\bin\Debug\netcoreapp3.1\TESTYTESTY.pdb
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\obj\Debug\netcoreapp3.1\TESTYTESTY.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\obj\Debug\netcoreapp3.1\TESTYTESTY.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\obj\Debug\netcoreapp3.1\TESTYTESTY.AssemblyInfo.cs
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\obj\Debug\netcoreapp3.1\TESTYTESTY.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\obj\Debug\netcoreapp3.1\TESTYTESTY.dll
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\obj\Debug\netcoreapp3.1\TESTYTESTY.pdb
+C:\Users\admin\Desktop\kqf\TESTYTESTY\TESTYTESTY\obj\Debug\netcoreapp3.1\TESTYTESTY.genruntimeconfig.cache

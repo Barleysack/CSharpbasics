@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\kqf\\kqf.csproj": {}
+    "C:\\Users\\admin\\Desktop\\kqf\\TESTYTESTY\\TESTYTESTY\\TESTYTESTY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\kqf\\kqf.csproj": {
+    "C:\\Users\\admin\\Desktop\\kqf\\TESTYTESTY\\TESTYTESTY\\TESTYTESTY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\kqf\\kqf.csproj",
-        "projectName": "kqf",
-        "projectPath": "C:\\Users\\admin\\Desktop\\kqf\\kqf.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\kqf\\TESTYTESTY\\TESTYTESTY\\TESTYTESTY.csproj",
+        "projectName": "TESTYTESTY",
+        "projectPath": "C:\\Users\\admin\\Desktop\\kqf\\TESTYTESTY\\TESTYTESTY\\TESTYTESTY.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\kqf\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\kqf\\TESTYTESTY\\TESTYTESTY\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

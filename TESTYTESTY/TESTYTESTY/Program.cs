@@ -1,12 +1,16 @@
 ﻿using System;
 
-namespace kqf
+namespace TESTYTESTY
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i = 1;
+            i = i + 1;
+
+            Console.WriteLine(i);
+     
         }
     }
 }
