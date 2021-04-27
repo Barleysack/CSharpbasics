@@ -37,7 +37,7 @@ namespace day1
             Console.WriteLine(p);
          
             Console.Write("enter the number");
-            int m = int.Parse(Console.ReadLine());
+            int m = 5;
 
             if (m % 2 == 0)
             {
@@ -99,6 +99,25 @@ namespace day1
 
             }
 
+            int output = 0;
+
+            for ( int q = 0; q<= 10; q++)
+            {
+                output += q;
+                
+            }
+            Console.WriteLine(output);
+            double holy = 1;
+
+            for (double x = 1; x <= 5; x++)
+            {
+                holy*= x;
+            }
+            Console.WriteLine(holy);
+
+
+
+            
         }
     }
 }
