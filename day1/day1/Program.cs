@@ -6,7 +6,7 @@ namespace day1
     {
         static void Main(string[] args)
         {
-            
+            //sizeof는 연산자.
             Console.WriteLine("Hello \nHello");
             Console.WriteLine("Hello \nHello"[0]);
             Console.WriteLine(5 / 2);
@@ -115,9 +115,36 @@ namespace day1
             }
             Console.WriteLine(holy);
 
+            int[] intArray = { 1, 2, 3, 4, 5, 6 };
+            for (int i = intArray.Length -1; i>=0; i--)
+            {
 
+                Console.WriteLine(intArray[i]);
 
-            
+            }
+            string[] array = { "가", "나", "다", "라", "마" };
+            foreach ( string item in array)
+            {
+                Console.WriteLine(item);
+
+            }
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j =0; j< i+1; j++)
+                
+                    Console.Write("*");
+                 Console.WriteLine("\n");   
+                
+            }
+           //권장은 데이터타입을 먼저 넣는 것을 권장한다.
+           //초기화는 미리 해두고 필요할때 값을 집어넣는다. 
+           //코드가 길어지면 기억이 안난다.
+          
+            bool one = 10 < 0;
+            bool two = 100 > 10;
+            Console.WriteLine(two);
+            Console.Write(one);
+
         }
     }
 }
