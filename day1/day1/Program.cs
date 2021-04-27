@@ -136,14 +136,22 @@ namespace day1
                  Console.WriteLine("\n");   
                 
             }
-           //권장은 데이터타입을 먼저 넣는 것을 권장한다.
-           //초기화는 미리 해두고 필요할때 값을 집어넣는다. 
-           //코드가 길어지면 기억이 안난다.
-          
+          //권장은 데이터타입을 먼저 넣는 것을 권장한다.
+          //초기화는 미리 해두고 필요할때 값을 집어넣는다. 
+          //코드가 길어지면 기억이 안난다.
+          //변수는 식별가능하도록
+          //웬만하면 알아보기 쉽도록. 축약 연산(복합연산자)같은거 하지 마라....
+          //꿀-팁
+
             bool one = 10 < 0;
             bool two = 100 > 10;
             Console.WriteLine(two);
-            Console.Write(one);
+            Console.WriteLine(one);
+            int number = 10;
+            number++;//number=number+1
+            Console.WriteLine(number);
+            number--;//number=number-1
+            Console.WriteLine(number);
 
         }
     }
