@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\KQF.csproj",
-      "projectName": "KQF",
-      "projectPath": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\KQF.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\day1\\day1\\day1.csproj",
+      "projectName": "day1",
+      "projectPath": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\day1\\day1\\day1.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\workspace\\kqf\\day1\\day1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
