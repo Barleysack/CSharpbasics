@@ -1,5 +1,5 @@
 ﻿using System;
-using System;
+
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +7,26 @@ using System.Threading.Tasks;
 namespace Day2_2
 {
         class Program
-        {
+        {   static void Main(string[] args)
+            {
+
+
+            Custom_2 customy = new Custom_2();
+            int input;
+            input = int.Parse(Console.ReadLine());
+
+            if (input % 2 == 0)
+            {
+                customy.age = 27;
+                Console.WriteLine(customy.age);
+            }
+            else
+            {
+                customy.age = 26;
+                Console.WriteLine(customy.age);
+            }
+
+            }
 
             class Custom_2
             {
@@ -16,10 +35,19 @@ namespace Day2_2
                 public int age;
 
             }
-            static void Main(string[] args)
+            static void hey (string[] args)
             {
-
-
+            Carcass body = new Carcass();
+            Custom_2 customy = new Custom_2();
+            customy.age = 28;
+            body.bloodtype = 'A';
+            string bit = customy.age + " and " + body.bloodtype;
+            Console.WriteLine(bit);
+            int[] minimini = { 1, 2, 3, 4, 5 };
+            string NS = "123456";
+            int IN = int.Parse(NS);
+            
+            
 
             }
             static void Main1(string[] args)

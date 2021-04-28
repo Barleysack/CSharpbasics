@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Day2_2
 {
-    class Class1
+    class Carcass
     {
+        public string name;
+        public int age;
+        public char bloodtype;
+      
+        
+
     }
 }
