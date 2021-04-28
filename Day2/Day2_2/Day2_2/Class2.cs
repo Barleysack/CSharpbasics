@@ -50,15 +50,27 @@ namespace Day2_2
 
             return absy;
         }
-        public static double Range(double x,double y)
+        public static int Abs(int x)
         {
-            
-            for(double i= x; i <= y; i++)
-            {
-                i
-            }
+            int absy;
+            absy = (int)Math.Sqrt(x * x);
 
-            return 0;
+            return absy;
         }
+        public static float Abs(float x)
+        {
+            float absy;
+            absy = (float)Math.Sqrt(x * x);
+
+            return absy;
+        }
+        public static long Abs(long x)
+        {
+            long absy;
+            absy = (long)Math.Sqrt(x * x);
+
+            return absy;
+        }
+
     }
 }
