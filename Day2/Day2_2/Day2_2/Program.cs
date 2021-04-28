@@ -12,7 +12,22 @@ namespace Day2_2
 
 
             Custom_2 customy = new Custom_2();
-            int input;
+
+            List<Custom_2> custylist = new List<Custom_2>();
+            custylist.Add(new Custom_2() { age = 27, name = "김우식" });
+            custylist.Add(new Custom_2() { age = 21, name = "김수식" });
+            custylist.Add(new Custom_2() { age = 23, name = "김미식" });
+            custylist.Add(new Custom_2() { age = 26, name = "김양식" });
+            custylist.Add(new Custom_2() { age = 21, name = "김가식" });
+            custylist.Add(new Custom_2() { age = 22, name = "김서식" });
+
+            foreach (var item in custylist)
+            {
+                Console.WriteLine(item.name + ":" + item.age);
+            }
+
+
+            /*int input;
             input = int.Parse(Console.ReadLine());
 
             if (input % 2 == 0)
@@ -23,10 +38,10 @@ namespace Day2_2
             else
             {
                 customy.age = 26;
-                Console.WriteLine(customy.age);
-            }
+                Console.WriteLine(customy.age);*/
+        }
 
-            }
+            
 
             class Custom_2
             {
