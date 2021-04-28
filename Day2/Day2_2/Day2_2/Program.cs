@@ -8,10 +8,26 @@ namespace Day2_2
 
 
 
-
-
-
         static void Main(string[] args)
+        {
+            int NumF1 = 100;
+            int NumF2;
+            int NumB1 = 100;
+            int NumB2;
+            NumF2 = ++NumF1;
+            NumB2 = NumB1++;//앞에 붙으면 순서가 다르다. 어딘가에 대입할때 차이가 나타난다.
+            //원래의 값을 백업할때.
+            //헷갈릴테니 이렇게 쓰지 말라 이말이야
+            
+            Console.WriteLine(NumF1);
+            Console.WriteLine(NumF2);
+            Console.WriteLine(NumB1);
+
+            Console.WriteLine(NumB2);
+        }
+
+
+        static void Main2(string[] args)
         {
 
             Console.WriteLine(CALC.Power(20));
@@ -49,13 +65,22 @@ namespace Day2_2
                     break;
 
             }
-           
-            for (int i = 0; i<10; ++i)
+
+            for (int i = 0; i <10; ++i)
+            
+                if ((i + 1) % 2 == 0)
+                {
+                    Console.WriteLine(i + 1);
+                }
+                    
+            for(int i = 1; i <= 9; ++i)
             {
-               if ((i+1)%2==0) 
-                    Console.WriteLine(i+1);
+                Console.WriteLine("2*" + i +"= "+2 * i);
+            }
                
             }
+            
+
 
 
 
@@ -63,7 +88,7 @@ namespace Day2_2
                     
                      
 
-                    }
+                    
 
 
 
