@@ -12,7 +12,7 @@ namespace Day2_2
 
 
             Custom_2 customy = new Custom_2();
-
+            
             List<Custom_2> custylist = new List<Custom_2>();
             custylist.Add(new Custom_2() { age = 27, name = "김우식" });
             custylist.Add(new Custom_2() { age = 21, name = "김수식" });
@@ -20,13 +20,25 @@ namespace Day2_2
             custylist.Add(new Custom_2() { age = 26, name = "김양식" });
             custylist.Add(new Custom_2() { age = 21, name = "김가식" });
             custylist.Add(new Custom_2() { age = 22, name = "김서식" });
-
+            int tow;
+            tow = 23;
+            for (int i = custylist.Count - 1; i>=0; i--)
+            {
+                if (custylist[i].age > tow)
+                {
+                    custylist.RemoveAt(i);
+                }
+            }
             foreach (var item in custylist)
             {
                 Console.WriteLine(item.name + ":" + item.age);
             }
+           
+            if (DateTime.Now.Hour > 12)
+            {
+                Console.WriteLine(DateTime.Now.ToString("tt hh mm ss"));
 
-
+            }
             /*int input;
             input = int.Parse(Console.ReadLine());
 
@@ -42,7 +54,14 @@ namespace Day2_2
         }
 
             
+            static void Main3(string[] args)
+            {
+            if (DateTime.Now.Hour > 12)
+            {
+                Console.WriteLine(DateTime.Now.ToString("tt hh mm ss"));
 
+            }
+        }
             class Custom_2
             {
                 public string name;
@@ -93,7 +112,7 @@ namespace Day2_2
                     Console.WriteLine(item);
                 }
 
-
+                
 
                 //int banbok = 0;
                 //for (int i = 0; i <= 100; i++)

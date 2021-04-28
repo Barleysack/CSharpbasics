@@ -11,7 +11,7 @@ namespace Day2_2
         public string name;
         public int age;
         public char bloodtype;
-      
+        
         
 
     }
