@@ -7,11 +7,67 @@ using System.Threading.Tasks;
 namespace Day2_2
 {
         class Program
-        {   static void Main(string[] args)
+        {   
+        
+        
+        
+        
+            
+        
+            static void Main(string[] args)
             {
+            
+            Console.WriteLine(CALC.Power(20));
+            Console.WriteLine(CALC.Multi(30, 20));
+            Console.WriteLine(CALC.Div(20, 6));
+            Console.WriteLine(CALC.Add(12, 12));
+            Console.WriteLine(CALC.Str(12, 3));
+            Console.WriteLine(CALC.Summy(1, 200));
+            Console.WriteLine(CALC.Abs(-400));
+            Console.WriteLine("몇월이고");
+            
+            
+            
+            
+            int month = int.Parse(Console.ReadLine());
+            switch (month)
+            {
+                case 12 or 1 or 2:              
+                    Console.WriteLine("겨울이네");
+                    break;
+                case 3:
+                case 4:
+                case 5:
+                    Console.WriteLine("봄이네");
+                    break;
+
+                case 9:
+                case 10:
+                case 11:
+                    Console.WriteLine("가을");
+                    break;
+
+                case 7:
+                case 8:
+                    Console.WriteLine("여름이지?");
+                    break;
+
+                default:
+                    Console.WriteLine("?");
+                    break;
 
 
-            Custom_2 customy = new Custom_2();
+
+                
+
+
+            }
+
+
+
+
+
+            /*Custom_2 customy = new Custom_2();
             
             List<Custom_2> custylist = new List<Custom_2>();
             custylist.Add(new Custom_2() { age = 27, name = "김우식" });
@@ -102,7 +158,7 @@ namespace Day2_2
                 Console.WriteLine(custom2.name + ":" + custom2.age);
 
                 list.Add(9);
-                list.Add(15);
+                list.Add(12);
                 list.Add(23);
                 list.Add(12);
 
