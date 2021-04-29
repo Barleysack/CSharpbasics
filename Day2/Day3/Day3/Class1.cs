@@ -12,5 +12,19 @@ namespace Day3
         {
             return x + y;
         }
+
+        public static int Gugu(int x)
+        {
+            int Result;
+            
+            for ( int o = 1; o <= 9; o++)
+            {
+                Result = x * o;
+                Console.WriteLine(Result);
+            }
+            
+            return 0;
+
+        }
     }
 }
