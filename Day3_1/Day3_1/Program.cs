@@ -32,11 +32,15 @@ namespace Day3_1
             //new는 객체로 만들때 사용한다.
             //car는 객체로 보기도 한다.
             car.Vendor = "AUDI";
-            car2.Vendor = "Tesla"
+            car2.Vendor = "Tesla";
            //Vendor,speed,Accel,Break등은 클래스의 '멤버이다'
 
             car.Speed = 0;
-            car2.Speed = 0;
+            car2.Speed = 10;
+            car.Accel();
+            car2.Break();
+            Console.WriteLine(car.Speed);
+            Console.WriteLine(car2.Speed);
 
             ADD_Number(2, 3);
         //메서드 오버로딩:메서드의 이름이 동일하고

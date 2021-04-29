@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Day3_1
 {
-    class Class1
+    class Car
     {
+        public string Vendor;
+        public int Speed;
+        public void Accel()
+        {
+            Speed = Speed + 10;
+        }
+        public void Break()
+        {
+            Speed = Speed - 10;
+        }
+        
     }
 }
