@@ -3,6 +3,8 @@ using System.Threading;
 using System.Collections.Generic;
 namespace Day4
 {
+
+    //기계어(code)//heap영역-(객체)/stack영역(지역변수)/
     class Program
     {
         static void Main(string[] args)
@@ -21,7 +23,12 @@ namespace Day4
             {
                 Console.WriteLine(0);
             }
-            Outer o = new Outer();
+
+            Outer.Outer1 ought = new Outer.Outer1();
+            ought.size = 28.28;
+            ought.price = 299000;
+            ought.name = "dㅇㅇㄴ";
+            ought.whatever = 29;
             
 
                 
@@ -63,20 +70,7 @@ namespace Day4
         public int Speed2;
         public int speed3;
 
-        //객체가 만들어지면 그때 만들어진다. 
-        public static int Abs(int x)
-        {
-
-            return Math.Abs(x);
-
-        }
-
-        public static int Add(int x, int y)
-        {
-            return x + y;
-        }
-
-
+     
 
 
 
