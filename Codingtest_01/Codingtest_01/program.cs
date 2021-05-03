@@ -46,9 +46,9 @@ namespace Codingtest_01
                                 Console.Write($"{f}    ");
                             }
                         }
-                        else if (i == 10) 
+                        else if (int.Parse(GOAL) == 10) 
                         {
-                            Console.Write($"{GOAL}    ");
+                            Console.Write($"10   ");
                         }
                         else
                         {
