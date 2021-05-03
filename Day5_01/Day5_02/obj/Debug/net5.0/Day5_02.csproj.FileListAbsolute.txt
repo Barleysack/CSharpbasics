@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\bin\Debug\net5.0\Day5_02.exe
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\bin\Debug\net5.0\Day5_02.deps.json
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\bin\Debug\net5.0\Day5_02.runtimeconfig.json
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\bin\Debug\net5.0\Day5_02.runtimeconfig.dev.json
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\bin\Debug\net5.0\Day5_02.dll
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\bin\Debug\net5.0\ref\Day5_02.dll
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\bin\Debug\net5.0\Day5_02.pdb
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.AssemblyInfo.cs
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.dll
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\ref\Day5_02.dll
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.pdb
+C:\Users\admin\Desktop\workspace\kqf\Day5_01\Day5_02\obj\Debug\net5.0\Day5_02.genruntimeconfig.cache
